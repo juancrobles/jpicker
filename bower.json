@@ -1,0 +1,26 @@
+{
+  "name": "jpicker",
+  "version": "1.1.6",
+  "homepage": "https://github.com/project-ufa/jpicker.git",
+  "authors": [
+    "Juan C Robles <project.ufa@gmail.com>"
+  ],
+  "description": "jPicker is a jQuery plugin for an advanced, Photoshop style color picker. Fork of original in https://code.google.com/p/jpicker",
+  "main": [
+    "jpicker.js",
+    "jpicker.css"
+  ],
+  "moduleType": [],
+  "keywords": [
+    "jpicker",
+    "jquery"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
